@@ -1,5 +1,5 @@
 # BURL Tnw
-[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://github.com/tanawatthuamthet)
+[![PyPI version](https://badge.fury.io/py/burltnw.svg)](https://badge.fury.io/py/burltnw)
 ![test image](https://www.img.in.th/images/874c0d89c594b276dab9cbf223465ec0.png)
 
    it is module inside of lab robotics for create application
