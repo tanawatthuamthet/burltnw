@@ -16,6 +16,9 @@ import burltnw
 ```
 
 ## Method of use
+
+![test image](https://static.generation-robots.com/14778-product_cover/mobile-base-apollo.jpg)
+
 ### status
 ```
 robot = burltnw.apollo()
