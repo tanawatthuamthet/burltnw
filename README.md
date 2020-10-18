@@ -8,3 +8,9 @@ pip install burltnw
 ```
 
 ## Method of use
+### status
+```
+import burltnw
+robot = burltnw.apollo()
+print(robot.get_status())
+```
