@@ -1,5 +1,5 @@
 # burltnw
 
-"""
+```
 pip install burltnw
-"""
+```
