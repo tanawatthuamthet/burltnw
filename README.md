@@ -14,3 +14,31 @@ import burltnw
 robot = burltnw.apollo()
 print(robot.get_status())
 ```
+
+### battery
+```
+import burltnw
+robot = burltnw.apollo()
+print(robot.get_battery())
+```
+
+### move
+```
+import burltnw
+robot = burltnw.apollo()
+print(robot.walk(1,1)) # position x and position y
+```
+
+### rotate
+```
+import burltnw
+robot = burltnw.apollo()
+print(robot.rotate(1)) # degree
+```
+
+### home
+```
+import burltnw
+robot = burltnw.apollo()
+print(robot.home())
+```
