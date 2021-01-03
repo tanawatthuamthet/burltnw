@@ -3,11 +3,11 @@
 ![test image](https://camo.githubusercontent.com/d9ff58742e2d22a28869351d857449075ef916875b1f1b5a040c8819c15be8df/68747470733a2f2f7777772e696d672e696e2e74682f696d616765732f36346136643032376532353838636632396365656233353234623063376332302e706e67)
 
    it is module inside of lab robotics for create application
-created by tanawat thuamthet
+develop by tanawat thuamthet
 
 ## Install
 ```
-pip install burlslamtec
+pip install burlslamtec==0.0.1
 ```
 
 ## Example
