@@ -14,6 +14,7 @@ pip install burlslamtec==0.0.1
 ```
 from burlslamtec import apollo
 robot=apollo()
+robot.config_ip("ip")
 robot.goto(1,0)
 ```
 
