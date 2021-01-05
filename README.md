@@ -41,7 +41,7 @@ print(robot.battery())
 
 ### sensor
 ```
-print(robot.sensor(1)) # degree
+print(robot.sensor(1)) 
 ```
 
 ### move
