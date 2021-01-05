@@ -7,7 +7,7 @@ develop by tanawat thuamthet
 
 ## Install
 ```
-pip install burlslamtec==0.0.1
+pip install burlslamtec
 ```
 
 ## Example
